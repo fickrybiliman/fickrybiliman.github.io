@@ -8,7 +8,7 @@ List of tags HTML & CSS on this site
 
 | HTML      | CSS                  |
 | --------- | -------------------- |
-| div       | position      [PlDb] |
+| div       | [position]      [PlDb] |
 | ul        | background    [PlGh] |
 |           | color         [PlGd] |
 | li        | nav           [PlOd] |
