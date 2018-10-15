@@ -18,6 +18,7 @@ List of tags HTML & CSS on this site :
 ## About Me
 
 ### Hello World!
+```sh
 const name = "Fickry Bil Iman";
 let age = 37;
 let hobbies = ['Badminton', 'Dota2', 'Coding', 'Programming', 'javascript', 'web development', 'Network', 'technology'];
@@ -27,3 +28,4 @@ let dailyBusyness = {
     others : 'Father of 2 boys'
 };
 let myGoals = 'Wanna a be a Full Stack Javascript, Aamiin';
+```
