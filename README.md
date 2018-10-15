@@ -28,6 +28,6 @@ let dailyBusyness = {
     others : 'Father of 2 boys'
 };
 let myGoals = 'Wanna a be a Full Stack Javascript, Aamiin';
-```sh
+```
 
 # *Future Plans*
