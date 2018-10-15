@@ -1,0 +1,65 @@
+header {
+    padding-top: 7px;
+    padding-left: 5px;
+    padding-bottom: 7px;
+    background: rgb(182, 216, 238);
+}
+
+h5 {
+    font-family: 'Charmonman', cursive;
+    font-weight: 800;
+    color: rgb(180, 74, 166);
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+}
+
+li {
+    float: right;
+    padding-right: 30px;
+    font-family: 'Indie Flower', cursive;
+}
+
+a {
+    color: rgb(180, 74, 166);
+    font-size: 20px;
+}
+
+.wall {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#aboutme {
+    height: 280px;
+    background-blend-mode: saturation;
+    background-color: #e7cfb4;
+    margin-bottom: 15px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 28px;
+    padding-top: 30px;
+}
+
+#aboutme div {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#gallery {
+    margin-bottom: 20px;
+}
+
+.gal {
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+}
+
+#contact {
+    font-family: 'Concert One', cursive;
+    font-size: 35px;
+    text-align: center;
+    
+}
