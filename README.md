@@ -20,7 +20,7 @@ List of tags HTML & CSS on this site :
 ##### Hello World!
 ```sh
 const name = "Fickry Bil Iman";
-let age = 37; //there is never an old term for learning, because life is a process of continuous learning unless we are dead
+let age = 37; //there is never an old term for learning, because life is a process of continuous learning unless we are dead.
 let hobbies = ['Badminton', 'Dota2', 'Coding', 'Programming', 'javascript', 'web development', 'Network', 'technology'];
 let dailyBusyness = {
     occupation : 'Network Engineer',
@@ -28,3 +28,6 @@ let dailyBusyness = {
     others : 'Father of 2 boys'
 };
 let myGoals = 'Wanna a be a Full Stack Javascript, Aamiin';
+```sh
+
+# *Future Plans*
