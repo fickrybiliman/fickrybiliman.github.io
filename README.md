@@ -1,4 +1,4 @@
-# Welcome to [fickrybiliman.github.io] (https://fickrybiliman.github.io/)
+# Welcome to [Fickry Bil Iman](https://fickrybiliman.github.io/)
 
 ## About this site
 
