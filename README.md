@@ -30,4 +30,4 @@ let dailyBusyness = {
 let myGoals = 'Wanna a be a Full Stack Javascript, Aamiin';
 ```
 
-# *Future Plans*
+## *Future Plans*
