@@ -6,13 +6,13 @@
 
 List of tags HTML & CSS on this site
 
-| HTML      | CSS                  |
-| --------- | -------------------- |
-| div       | [position]      [PlDb] |
-| ul        | background    [PlGh] |
-|           | color         [PlGd] |
-| li        | nav           [PlOd] |
-| em        | h1            [PlMe] |
-| bold      | footer        [PlGa] |
+| HTML      | CSS                   |
+| --------- | --------------------  |
+| div       | position              |
+| ul        | background            |
+|           | color                 |
+| li        | nav                   |
+| em        | h1                    |
+| bold      | footer                |
 
 ## About Me
